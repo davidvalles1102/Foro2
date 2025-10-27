@@ -1,6 +1,7 @@
 Actividad: Segundo Proyecto en Android con Kotlin
 
 Integrantes:
+
 1. Jonathan Jose Flamenco Lopez FL161275
 
 2.Raquel abigail Cortez Mata CM162199
